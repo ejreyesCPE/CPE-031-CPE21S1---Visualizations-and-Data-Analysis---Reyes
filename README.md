@@ -1,5 +1,4 @@
 # 📊 CPE 031: Visualizations and Data Analysis
-<img width="1731" height="560" alt="dp2kuk914o9y_gif (1731×560)" src="https://github.com/user-attachments/assets/166792dd-ff3f-4380-b3c9-c99afa84ff7e" />
 
 ## 👤 Student Information
 | Detail | Information |
