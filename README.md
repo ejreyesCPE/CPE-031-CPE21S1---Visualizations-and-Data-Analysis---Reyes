@@ -1,4 +1,4 @@
-# 📊 CPE 031: Visualizations and Data Analysis
+# ﹌﹌﹌﹌﹌﹌﹌﹌ CPE 031: Visualizations and Data Analysis ﹌﹌﹌﹌﹌﹌﹌﹌ 
 
 <img width="1731" height="560" alt="dp2kuk914o9y_gif (1731×560)" src="https://github.com/user-attachments/assets/95030ee4-9569-4602-af71-1b9114afd196" />
 
@@ -11,7 +11,7 @@
 
 ---
 
-## 📝 Course Description
+##  Course Description
 This repository serves as a centralized portfolio for all laboratory activities, projects, and assignments completed for **CPE 031 (Visualizations and Data Analysis)**. 
 
 The focus of this course revolves around:
@@ -21,7 +21,7 @@ The focus of this course revolves around:
 
 ---
 
-## 🗂️ Repository Structure
+##  Repository Structure
 
 ```text
 📂 CPE031-Visualizations-Data-Analysis
